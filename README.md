@@ -7,7 +7,7 @@ Soy Ingeniero de Software con una pasión por la tecnología y la innovación. M
 - **Lenguajes de programación:** JavaScript, Python, Java, PHP
 - **Desarrollo web:** HTML, CSS, React, Vue, Node.js
 - **Bases de datos:** MySQL, MongoDB
-- **Herramientas y plataformas:** Git
+- **Herramientas y plataformas:** Git, GitHub
 
 ---
 
