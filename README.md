@@ -36,9 +36,5 @@ Reproductor de audios versatil y facil de usar.
 - [LinkedIn](https://www.linkedin.com/in/arizaroyer/)
 - [Correo Electrónico](mailto:ariza.royer@gmail.com)
 
-¡Gracias por visitar mi perfil!
-```
-
----
 
 ¡Gracias por visitar mi perfil de GitHub!
