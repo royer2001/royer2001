@@ -11,13 +11,13 @@ Soy Bachiller de Ingeniería de Software con una pasión por la tecnología y la
 
 ## Proyectos Destacados
 
-### 1. [Mapa de aeropuetos](https://github.com/royer2001/peruvian_airports_map)
-Mapa de aeropuetos de peru con información sobre cada una de ellas.
+### 1. [Mapa de aeropuertos](https://github.com/royer2001/peruvian_airports_map)
+Mapa de aeropuertos de Perú con información sobre cada una de ellas.
 
 **Tecnologías:** JavaScript, Vue, Bootstrap
 
 **Características:**
-- Visualización de mapa de aeropuetos en Perú
+- Visualización de mapa de aeropuertos en Perú
 - Interfaz de usuario intuitiva
 - Responsiva
 
