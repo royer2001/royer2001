@@ -12,7 +12,7 @@ Soy Bachiller de Ingeniería de Software con una pasión por la tecnología y la
 ## Proyectos Destacados
 
 ### 1. [Mapa de aeropuertos](https://github.com/royer2001/peruvian_airports_map)
-**Demo** [Link](https://super-kulfi-0a8c52.netlify.app/)
+**Demo** <a href="https://super-kulfi-0a8c52.netlify.app/" target="_blank">Link</a>
 
 Mapa de aeropuertos de Perú con información sobre cada una de ellas.
 
