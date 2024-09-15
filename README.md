@@ -5,7 +5,7 @@ Soy Bachiller de Ingeniería de Software con una pasión por la tecnología y la
 
 ## Tecnologías y Herramientas
 - **Lenguajes de programación:** ![Static Badge](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
-, ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow), ![Static Badge](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=yellow)
+, ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
 - **Desarrollo web:** HTML, CSS, React, Vue, Node.js
 - **Bases de datos:** MySQL, MongoDB
 - **Herramientas y plataformas:** Git, GitHub
