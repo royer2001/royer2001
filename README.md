@@ -10,8 +10,6 @@ Soy Bachiller de Ingeniería de Software con una pasión por la tecnología y la
 - **Bases de datos:** MySQL, MongoDB
 - **Herramientas y plataformas:** Git, GitHub
 
-## Proyectos Destacados
-
 ## Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/arizaroyer/)
