@@ -5,34 +5,12 @@ Soy Bachiller de Ingeniería de Software con una pasión por la tecnología y la
 
 ## Tecnologías y Herramientas
 - **Lenguajes de programación:** ![Static Badge](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
-, ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
+ ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
 - **Desarrollo web:** HTML, CSS, React, Vue, Node.js
 - **Bases de datos:** MySQL, MongoDB
 - **Herramientas y plataformas:** Git, GitHub
 
 ## Proyectos Destacados
-
-### 1. [Mapa de aeropuertos](https://github.com/royer2001/peruvian_airports_map)
-**Demo** <a href="https://super-kulfi-0a8c52.netlify.app/" target="_blank">Link</a>
-
-Mapa de aeropuertos de Perú con información sobre cada una de ellas.
-
-**Tecnologías:** JavaScript, Vue, Bootstrap
-
-**Características:**
-- Visualización de mapa de aeropuertos en Perú
-- Interfaz de usuario intuitiva
-- Responsiva
-
-### 2. [Reproductor de audios](https://github.com/royer2001/audio-player)
-Reproductor de audios versatil y facil de usar.
-
-**Tecnologías:** JavaScript, React, Tailwind
-
-**Características:**
-- Controles del audio (avanzar, retroceder, pausa y play)
-- Información de audio por medio de metadata
-- Diseño limpio y minimalista
 
 ## Contacto
 
