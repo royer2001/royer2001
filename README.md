@@ -40,7 +40,6 @@ Soy **Bachiller de Ingeniería de Software** con una pasión por la tecnología 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/arizaroyer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arizaroyer" height="30" width="40" /></a>
-<a href="mailto:ariza.royer@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ariza.royer" height="30" width="40" /></a>
 </p>
 
 ---
